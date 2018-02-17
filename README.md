@@ -11,6 +11,7 @@ npm install @remobile/react-native-battery-status --save
 * Look for Header Search Paths and make sure it contains both $(SRCROOT)/../../../react-native/React as recursive.
 
 ### Installation (Android)
+* In `android/settings.gradle`
 ```gradle
 ...
 include ':react-native-battery-status'
